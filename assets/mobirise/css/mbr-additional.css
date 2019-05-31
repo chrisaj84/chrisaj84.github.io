@@ -83,8 +83,8 @@ body {
     }
 
     .display-4 {
-        font-size: 0.8rem;
-        font-size: .7rem;
+        font-size: 0.85rem;
+        font-size: .8rem;
         line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
     }
 
@@ -2188,6 +2188,7 @@ body {
 .cid-rqZAkSwzEW .mbr-section-btn {
     color: #232323;
     text-align: center;
+    margin: auto;
 }
 
 .cid-rqZAkSwzEW H1 {
@@ -2388,7 +2389,7 @@ body {
 @media (max-width: 991px) {
     .cid-rrixToVvRt .mbr-figure {
         padding-right: 0;
-        padding-bottom: 1rem;
+        padding-bottom: 0rem;
         margin-bottom: 2rem;
     }
 }
@@ -5389,4 +5390,8 @@ media {
 
 @media {
     width: 50%;
+}
+
+media {
+    width: ;
 }
