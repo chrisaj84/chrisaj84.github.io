@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'VisiaPro-Bold';
+   src: url('VisiaPro-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'D-DINCondensed';
+   src: url('D-DINCondensed/font.ttf');
+}
+@font-face {
+   font-family: 'VisiaPro-SemiBold';
+   src: url('VisiaPro-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'VisiaPro-Regular';
+   src: url('VisiaPro-Regular/font.ttf');
+}
